@@ -1,4 +1,12 @@
 # mybatisDemo
+
+
+#### 参考学习资料
+- 哔哩哔哩：bilibili.com/video/BV1m84y1w7Tb/?spm_id_from=333.999.0.0&vd_source=aca8ea2d4a38c555edfc3b0eb238466b
+- 百度云：
+  - 我的资源-2023新版JavaWeb开发教程
+  - https://pan.baidu.com/disk/main?from=homeFlow#/index?category=all&path=%2F%E6%88%91%E7%9A%84%E8%B5%84%E6%BA%90%2F2023%E6%96%B0%E7%89%88JavaWeb%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B
+
 #### 需要的配置
 - springboot（可以去官网创建后下载，会显示多个依赖）
 - web API服务需要下载插件 spring-boot-starter-web
